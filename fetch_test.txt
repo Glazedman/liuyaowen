@@ -1,0 +1,2 @@
+fetch test.
+测试git当remote.origin.fetch设置了特定值的时候能否pull其他分支
